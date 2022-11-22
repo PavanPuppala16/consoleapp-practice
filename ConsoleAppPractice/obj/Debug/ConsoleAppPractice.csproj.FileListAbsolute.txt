@@ -1,0 +1,8 @@
+C:\Users\PavanPuppala\source\repos\ConsoleAppPractice\ConsoleAppPractice\bin\Debug\ConsoleAppPractice.exe.config
+C:\Users\PavanPuppala\source\repos\ConsoleAppPractice\ConsoleAppPractice\bin\Debug\ConsoleAppPractice.exe
+C:\Users\PavanPuppala\source\repos\ConsoleAppPractice\ConsoleAppPractice\bin\Debug\ConsoleAppPractice.pdb
+C:\Users\PavanPuppala\source\repos\ConsoleAppPractice\ConsoleAppPractice\obj\Debug\ConsoleAppPractice.csproj.AssemblyReference.cache
+C:\Users\PavanPuppala\source\repos\ConsoleAppPractice\ConsoleAppPractice\obj\Debug\ConsoleAppPractice.csproj.SuggestedBindingRedirects.cache
+C:\Users\PavanPuppala\source\repos\ConsoleAppPractice\ConsoleAppPractice\obj\Debug\ConsoleAppPractice.csproj.CoreCompileInputs.cache
+C:\Users\PavanPuppala\source\repos\ConsoleAppPractice\ConsoleAppPractice\obj\Debug\ConsoleAppPractice.exe
+C:\Users\PavanPuppala\source\repos\ConsoleAppPractice\ConsoleAppPractice\obj\Debug\ConsoleAppPractice.pdb
